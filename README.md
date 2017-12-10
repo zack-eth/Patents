@@ -1,9 +1,5 @@
 <br />
 
-<h1 align="center">Patents</h1>
-
-<br />
-
 <p align="center"><a href="http://pdfaiw.uspto.gov/.aiw?docid=20160275436">Integrated Resource Tracking System</a></p>
 
 <br />
